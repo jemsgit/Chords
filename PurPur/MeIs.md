@@ -1,3 +1,4 @@
+```
 куплет
 D (2320xx) A (02220x) Bm7 (23442x)
 A (02220x) D/F# (2320x2) G (230023)
@@ -42,3 +43,4 @@ I Am a clot of the thoughts and dreams
 I Am a everything it should seem
 I Am a crack of the century
 I Am fake, I Am joke, I Am real!
+```
