@@ -1,3 +1,4 @@
+```
 [Intro]
 D Am C G
  
@@ -156,3 +157,4 @@ D         Am
 Oh, oh-oh-oh
 C         G
 Oh, oh-oh-oh-oh
+```
